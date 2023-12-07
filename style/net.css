@@ -19,7 +19,7 @@ body {
 }
 
 .head {
-  background-image: url(/image/back.JPG);
+  background-image: url('../image/back.JPG');
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
